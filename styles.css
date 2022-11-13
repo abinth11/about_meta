@@ -52,8 +52,8 @@ body{
 @media only screen and (max-width:600px)
 {
   #first_image{
-   width:527px ;
-   height:546px ;
+   width:427px ;
+   height:346px ;
   }
 }
 @media only screen and (max-width:600px)
@@ -231,10 +231,10 @@ header
   }
 
 }
-.card_image
+#card_image
 {
   width: 168px;
-  height: 136px;
+  height: 120px;
 }
 
 /* @media only screen and (max-width:600px)
@@ -252,7 +252,7 @@ header
   background-color: #F1F4F7;
 
 }
-@media only screen and (max-width:1208px)
+@media only screen and (max-width:1000px)
 {
   #card-title
   {
@@ -264,7 +264,7 @@ header
   }
   #card{
     width:100%;
-    height: 152px;
+    height: 120px;
     }
     #card_image{
       width:102px ;
