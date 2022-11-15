@@ -303,6 +303,8 @@ header
 }
 
 
+
+
 #cards-b{
   border: none;
 }
@@ -385,4 +387,10 @@ font-size: 18px;
    text-decoration:none solid rgb(0, 0, 0);
    letter-spacing: normal;
 
+}
+@media  (max-width: 720px) {
+  #navbarDropdown {
+     font-size:12px ; 
+     
+  }
 }
