@@ -52,8 +52,9 @@ body{
 @media only screen and (max-width:600px)
 {
   #first_image{
-   width:427px ;
-   height:346px ;
+  object-fit: cover;
+   width:437px ;
+   height:320px ;
   }
 }
 @media only screen and (max-width:600px)
