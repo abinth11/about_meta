@@ -18,9 +18,10 @@ body{
 .logoMeta
 {
     width: 100px;
-    margin-left: 1em;
     
 }
+
+
 /* .dropdown:hover>.dropdown-menu {
     display: block;
   }
@@ -341,6 +342,21 @@ none solid rgb(52, 72, 84)
   font-weight: 400;
   text-decoration:none solid rgb(23, 44, 52);
   text-align: start;
+
+}
+
+@media (max-width:500px)
+{
+  .foot-li{
+    font-size: 8px;
+  }
+  .foot-f-p{
+    font-size: 8px;
+    
+  }
+  .foot-p{
+    font-size: 10px;
+  }
 
 }
 .card-title
