@@ -285,9 +285,21 @@ header
 @media (max-width:724px)
 {
   .image-s {
-    height:348px ;
+    height:310px ;
+  }
+ 
+}
+#card_images{
+  width: 168px;
+  height:136px ;
+}
+@media (max-width:1024px)
+{
+  #card_images{
+   height: 100px;
   }
 }
+
 
 #cards-b{
   border: none;
